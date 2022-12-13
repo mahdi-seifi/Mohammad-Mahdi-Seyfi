@@ -33,6 +33,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=react)&nbsp;
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jTqfCm1C0BV5fFAYvT/giphy.gif" width="100"/>
+</div>
+
 
 
 
