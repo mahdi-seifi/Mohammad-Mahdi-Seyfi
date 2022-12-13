@@ -6,9 +6,7 @@
 </h1>
 
 <h4 align="center">This is Mohammad Mahdi Seyfi! A Senior Wordpress developer, also known as Ronix!</h4>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jTqfCm1C0BV5fFAYvT/giphy.gif" width="100"/>
-</div>
+
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.
 
@@ -27,7 +25,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg)&nbsp;
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+![Wordpress](https://img.shields.io/badge/wordpress-blue?logo=wordpress&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
