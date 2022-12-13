@@ -6,9 +6,7 @@
 </h1>
 
 <h4 align="center">This is Mohammad Mahdi Seyfi! A Senior Wordpress developer, also known as Ronix!</h4>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 💡 &nbsp;I like to explore new technologies and develop software solutions.
 
 🎓 &nbsp;I'm a software engineer graduate.
