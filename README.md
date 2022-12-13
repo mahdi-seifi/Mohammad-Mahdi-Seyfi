@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">This is Mohammad Mahdi Seyfi! A Senior Wordpress developer, also known as Ronix!</h4>
-<p>
+
 💡 &nbsp;I like to explore new technologies and develop software solutions.
 🎓 &nbsp;I'm a software engineer graduate.
 🔭 I'm currently working on Ronix website.
