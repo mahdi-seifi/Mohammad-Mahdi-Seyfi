@@ -7,12 +7,12 @@
 
 <h4 align="center">This is Mohammad Mahdi Seyfi! A Senior Wordpress developer, also known as Ronix!</h4>
 <p>
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm a software engineer graduate.\
-🔭 I'm currently working on Ronix website.\
-👨🏻‍💻 I’m currently learning machine learning.\
-🌱 &nbsp;I'm Interested in building web apps and heavily interested in any form of iot & machine learning.\
-✉️ &nbsp;You can shoot me an email at mahdi.seifi90@gmail.com I'll try to respond as soon as I can.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.
+🎓 &nbsp;I'm a software engineer graduate.
+🔭 I'm currently working on Ronix website.
+👨🏻‍💻 I’m currently learning machine learning.
+🌱 &nbsp;I'm Interested in building web apps and heavily interested in any form of iot & machine learning.
+✉️ &nbsp;You can shoot me an email at mahdi.seifi90@gmail.com I'll try to respond as soon as I can.
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mohamad-mahdi-362339190//) for more details about me.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
