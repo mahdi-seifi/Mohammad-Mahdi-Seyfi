@@ -5,7 +5,7 @@
   Mohammad Mahdi Seyfi (Safedesign)
 </h1>
 
-<h4 align="center">This is Mohammad Mahdi Seyfi! A Senior Wordpress developer, also he is a working to Ronix!</h4>
+<h4 align="center">I am Mohammad Mahdi Seyfi! A Senior Wordpress developer, also he is a working to Ronix!</h4>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.
 
